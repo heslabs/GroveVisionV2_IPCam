@@ -86,14 +86,14 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 * The Neural Processing Unit (NPU) improves the inference performance of neural networks. The NPU targets 8-bit and 16-bit integer quantized Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). The NPU supports 8-bit weights.
 
 ---
-### Arm Ethos-U NPU — Comparison Table
-Reference: Arm Ethos-U NPU — Comparison Table— Comparison Table [[PDF]](<https://armkeil.blob.core.windows.net/developer/Files/pdf/datasheets/arm-ethos-u-processor-series-product-brief.pdf>)
+### Arm Ethos-U NPU 
+Reference: Arm Ethos-U NPU — Comparison Table Comparison Table [[PDF]](<https://armkeil.blob.core.windows.net/developer/Files/pdf/datasheets/arm-ethos-u-processor-series-product-brief.pdf>)
 
 <img src="https://github.com/user-attachments/assets/3b9837aa-25a4-42c1-abdc-9558b73f1eef" width=550>
 
 ---
-### Arm IoT Reference Design Platform — Comparison Table
-Reference: Arm IoT Reference Design Platform — Comparison Table [[PDF]](<https://documentation-service.arm.com/static/6614bbed1bc22b03bca93570?token=>)
+### Arm IoT Reference Design Platform  
+Reference: Arm IoT Reference Design Platform Comparison Table [[PDF]](<https://documentation-service.arm.com/static/6614bbed1bc22b03bca93570?token=>)
 
 <img src="https://github.com/user-attachments/assets/797137ed-3a74-4087-b679-80a5bbe6121c" width=950>
 
