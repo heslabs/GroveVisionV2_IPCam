@@ -65,9 +65,8 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 ---
 ### Grove Vision AI V2 - Web Camera Example
 
-<img src="https://github.com/user-attachments/assets/5a0d83f5-d62e-4a62-802e-3f97c850b3fe" width=450>
-
-<img src="https://github.com/user-attachments/assets/00d2a0c7-b5b8-430f-b0ce-7033f4ad57ea" width=450>
+<img src="https://github.com/user-attachments/assets/e98aa65d-245e-45f8-9d20-0c748823256b" width=650>
+<img src="https://github.com/user-attachments/assets/c778a4be-9314-40e5-b615-3c2b9d96e291" width=650>
 
 ---
 ### Arm Corstone Subsystem
@@ -86,6 +85,7 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 #### Arm Ethos-U55 NPU [more]
 * https://developer.arm.com/Processors/Ethos-U55
 * The Neural Processing Unit (NPU) improves the inference performance of neural networks. The NPU targets 8-bit and 16-bit integer quantized Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). The NPU supports 8-bit weights.
+
 
 
 
