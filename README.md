@@ -1,8 +1,8 @@
 # Grove Vision AI v2 - IP Camera 
 ## Quick Start Guide
 
-1. Upload AI Model to Grove Vision AI V2 [[Pages]]
-2. Deploy a Http Server With XIAO ESP32C3 Sense [[Pages]]
+1. Upload AI Model to Grove Vision AI V2 [[Pages]](<https://github.com/heslabs/GroveVisionV2_IPCam/tree/main/01_Upload_AI_Model>)
+2. Deploy a Http Server With XIAO ESP32C3 Sense [[Pages]](<https://github.com/heslabs/GroveVisionV2_IPCam/tree/main/02_Deploy_HTTP_Server>)
 
 
 ---
