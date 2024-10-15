@@ -1,5 +1,14 @@
 # Deploy a Http Server with XIAO ESP32C3 Sense
 
+Precedure
+* Step 1: Download and install Arduino IDE
+* Step 2: Download the SSCMA package and upload to Arduino IDE
+* Step 3: Open camera web server demo program and set your 2.4G wifi
+* Step 4: Upload it to ESP32SC3
+* Step 5: Install required libraries in Arduino IDE
+* Step 6: Running AI model run successfully in your browser
+  
+---
 ### Step 1: Download and install Arduino IDE
 Optional if already installed
 Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE>) 
