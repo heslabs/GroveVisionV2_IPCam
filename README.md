@@ -4,7 +4,6 @@
 1. Upload AI Model to Grove Vision AI V2 [[Pages]](<https://github.com/heslabs/GroveVisionV2_IPCam/tree/main/01_Upload_AI_Model>)
 2. Deploy a Http Server With XIAO ESP32C3 Sense [[Pages]](<https://github.com/heslabs/GroveVisionV2_IPCam/tree/main/02_Deploy_HTTP_Server>)
 
-
 ---
 ### Overview
 
@@ -31,7 +30,7 @@ For this tutorial, the following hardware modules are required
 <img src="https://github.com/user-attachments/assets/6c196752-b67e-4665-af6b-52e564f15ff0" width=350>
 
 ---
-## Grove Vision AI Module V2
+### Grove Vision AI Module V2
 Reference: [[Seeedstudio Wiki page]](<https://wiki.seeedstudio.com/grove_vision_ai_v2>)
 
 * It is an MCU-based vision AI module powered by Arm Cortex-M55 & Ethos-U55. It supports TensorFlow and PyTorch frameworks and is compatible with Arduino IDE. With the SenseCraft AI algorithm platform, trained ML models can be deployed to the sensor without the need for coding.
