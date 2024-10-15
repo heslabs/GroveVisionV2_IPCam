@@ -10,7 +10,7 @@
 
 This lab will use the off-the-shelf silicon devices and cost-effective evaluation board from Himax Seeed Studio.
  
-Intelligent IP Camera With AI Function
+Intelligent IP Camera with AI Function
 Reference: Seeed Studio - Intelligent IP Camera With AI Function [[wiki]](<https://wiki.seeedstudio.com/grove_vision_ai_v2_webcamera>)
 * Grove Vision AI V2 can be advanced surveillance devices that integrate artificial intelligence to enhance security and operational efficiency.
 * * These cameras can perform real-time video analysis to detect and alert for unusual activities, recognize faces, and monitor crowd density, making them ideal for applications in areas such as public safety, retail management, and smart home security. 
