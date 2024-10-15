@@ -55,7 +55,12 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 * WiseEye2 (WE2 AI solution) AI solution is composed of two components: an ultralow power CMOS image sensor and an AI microcontroller HX6538 WE2.  
 * The WE2 features Arm based Cortex M55 CPU and Ethos U55 NPU, rich sets of sensor control interfaces, industrial grade security and cryptography engines, and multi-layer power management architecture.  
 
+---
+### Lab setup for Ethernet and USB connection
+* IP Camera (Ethernet connection)
+* SenseCraft-Web-Toolkit (USB connection)
 
+<img src="https://github.com/user-attachments/assets/1c1768d6-6fb5-482b-a605-10590ed0d8d7" width=650>
 
 ---
 ### Grove Vision AI V2 - Web Camera Example
@@ -82,12 +87,6 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 * https://developer.arm.com/Processors/Ethos-U55
 * The Neural Processing Unit (NPU) improves the inference performance of neural networks. The NPU targets 8-bit and 16-bit integer quantized Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). The NPU supports 8-bit weights.
 
----
-### Lab setup for Ethernet and USB connection
-* IP Camera (Ethernet connection)
-* SenseCraft-Web-Toolkit (USB connection)
-
-<img src="https://github.com/user-attachments/assets/1c1768d6-6fb5-482b-a605-10590ed0d8d7" width=650>
 
 
 
