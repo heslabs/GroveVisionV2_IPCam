@@ -1,4 +1,4 @@
-# Deploy a Http Server With XIAO ESP32C3 Sense
+# Deploy a Http Server with XIAO ESP32C3 Sense
 
 ### Step 1: Download and install Arduino IDE
 Optional if already installed
