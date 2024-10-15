@@ -79,11 +79,11 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 <img src="https://github.com/user-attachments/assets/065f2b7e-d60e-435c-9a09-f4ba0f13a7f5" width=750>
 
 #### Arm Cortex-M55 Processor 
-* https://developer.arm.com/documentation/101051/0101/?lang=en>
+* Reference: [[Arm Developer Pages]](<https://developer.arm.com/documentation/101051/0101/?lang=en>)
 * The Cortex-M55 processor is the first Arm Cortex-M processor supporting the Armv8.1-M architecture. With Arm Helium technology (also known as the M-Profile Vector Extension, MVE).
 
 #### Arm Ethos-U55 NPU [more]
-* https://developer.arm.com/Processors/Ethos-U55
+* Reference: [[Arm Developer Pages]](<https://developer.arm.com/Processors/Ethos-U55>)
 * The Neural Processing Unit (NPU) improves the inference performance of neural networks. The NPU targets 8-bit and 16-bit integer quantized Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). The NPU supports 8-bit weights.
 
 
