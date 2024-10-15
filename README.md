@@ -55,9 +55,20 @@ Reference: [[Himax product page]](<https://www.himax.com.tw/products/wiseeye-ai-
 * WiseEye2 (WE2 AI solution) AI solution is composed of two components: an ultralow power CMOS image sensor and an AI microcontroller HX6538 WE2.  
 * The WE2 features Arm based Cortex M55 CPU and Ethos U55 NPU, rich sets of sensor control interfaces, industrial grade security and cryptography engines, and multi-layer power management architecture.  
 
+
+
+---
+### Grove Vision AI V2 - Web Camera Example
+
+<img src="https://github.com/user-attachments/assets/5a0d83f5-d62e-4a62-802e-3f97c850b3fe" width=450>
+
+<img src="https://github.com/user-attachments/assets/00d2a0c7-b5b8-430f-b0ce-7033f4ad57ea" width=450>
+
 ---
 ### Arm Corstone Subsystem
-Arm Corstone is designed as the foundation for an efficient, high-performance SoC and includes a reference design to efficiently integrate Arm IPs with power, clock, debug, and security infrastructure. 
+
+* The Grove Vision V2 is based on Arm Cortex-M55 and Ethos-U55 platform in the Arm Corstone-300 subsystem IP
+* Arm Corstone is designed as the foundation for an efficient, high-performance SoC and includes a reference design to efficiently integrate Arm IPs with power, clock, debug, and security infrastructure. 
 
 <img src="https://github.com/user-attachments/assets/525e578d-f26c-46f5-99ab-f1bca6d77d89" width=750>
 
@@ -77,13 +88,6 @@ Arm Corstone is designed as the foundation for an efficient, high-performance So
 * SenseCraft-Web-Toolkit (USB connection)
 
 <img src="https://github.com/user-attachments/assets/1c1768d6-6fb5-482b-a605-10590ed0d8d7" width=650>
-
----
-### Grove Vision AI V2 - Web Camera Example
-
-<img src="https://github.com/user-attachments/assets/5a0d83f5-d62e-4a62-802e-3f97c850b3fe" width=450>
-
-<img src="https://github.com/user-attachments/assets/00d2a0c7-b5b8-430f-b0ce-7033f4ad57ea" width=450>
 
 
 
