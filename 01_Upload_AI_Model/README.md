@@ -1,5 +1,11 @@
 ## Upload AI Model to Grove Vision AI V2
 
+Precedure
+* Step 1. Connect the Grove Vision AI V2 to the SenseCraft AI Model Assistant
+* Step 2. Upload a test AI model
+* Step 3. Observe the live video from camera in the preview window
+  
+---
 ### Step 1. Connect the Grove Vision AI V2 to the SenseCraft AI Model Assistant
 
 * Open the main SenseCraft AI Model Assistant page
