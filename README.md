@@ -108,6 +108,7 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
   ```
 <img src="https://github.com/user-attachments/assets/4fef079e-64f3-42c0-9598-211e7960163f" width=550>
 
+---
 #### Step 2: Download the SSCMA package and upload to Arduino IDE
 * Download SSCMA zip package from Seeed-Studio [[GitHub]](<https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA>)
 * Download file: Seeed_Arduino_SSCMA-main.zip
@@ -120,7 +121,7 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
 * It takes a few minutes to complete the installation.
 <img src="https://github.com/user-attachments/assets/ed8109f1-0f6c-4fff-840b-0897950f5b12" width=550>
 
-
+---
 #### Step 3: Open camera web server demo program and set your 2.4G wifi 
 
 * Open camera web server demo
@@ -131,6 +132,7 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
   * Please pay attention to 2.4G wifi, not 5G
 <img src="https://github.com/user-attachments/assets/1dfb0d66-a647-4662-9b98-44fbc2f475a0" width=550>
 
+---
 #### Step 4: Upload it to ESP32SC3
 * Connect your board by USB type-c cable
 <img src="https://github.com/user-attachments/assets/40343e8a-9615-4150-b896-11c1d85b4ccb" width=150>
@@ -141,8 +143,9 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
 * Scroll down to select: Board (XIAO_ESP32C3) and Port (/dev/ttyACM0)
 <img src="https://github.com/user-attachments/assets/2ce5b4fb-47b0-48e7-b94e-f4c968d8c33b" width=550>
 
-* Install required libraries in Arduino IDE
-  Sketch > Include Library > Manage Libraries. In the "Filter your search..." box, type in following library names in the search query 
+---
+#### Step 5: Install required libraries in Arduino IDE
+Sketch > Include Library > Manage Libraries. In the "Filter your search..." box, type in following library names in the search query 
   * ArduinoJson
   * Eigen
   * FreeRTOS 
@@ -157,7 +160,7 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
 <img src="https://github.com/user-attachments/assets/a48d02fd-460a-471f-911f-cd40afb8ce94" width=650>
 
 ---
-#### Step 5: Running AI model run successfully in your browser
+#### Step 6: Running AI model run successfully in your browser
 
 First, you need to make sure your computer is on the same LAN with Grove Vision AI V2. 
 Open your browser and input the ip address you got from the previous step and click Start Stream button. You will see the AI model run successfully in your browser.
