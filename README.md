@@ -20,14 +20,17 @@ Reference: Seeed Studio - Intelligent IP Camera With AI Function [[wiki]](<https
 ### Prerequisites
 
 For this tutorial, the following hardware modules are required
-* Grove Vision AI V2 Kit [[more]](<https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html>)
-    * Grove Vision AI V2 module
-    * Raspberry Pi OV5647 camera module 
-* XIAO ESP32C3 WIFI module [[more]](<https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html>)
-
+* Grove Vision AI V2 
+* Raspberry Pi OV5647 Camera Module [[more]](<https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html>)
+* Seeed Studio XIAO ESP32C3 (2.4GHz WiFi, BLE 5.0) [[more]](<https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html>)
+  
 <img src="https://github.com/user-attachments/assets/a6df1caf-ea49-46f3-98fe-864cfaf54020" width=450>
 
 <img src="https://github.com/user-attachments/assets/6c196752-b67e-4665-af6b-52e564f15ff0" width=350>
+
+#### Grove Vision AI V2 Kit (with Camera & XIAO) +$28.88 [[Online Store]](<https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html>)
+
+<img src="https://github.com/user-attachments/assets/bd7f12c7-3ae0-488a-bdf7-2bcb80faef4a" width=350>
 
 ---
 ### Grove Vision AI Module V2
@@ -35,14 +38,6 @@ Reference: [[Seeedstudio Wiki page]](<https://wiki.seeedstudio.com/grove_vision_
 
 * It is an MCU-based vision AI module powered by Arm Cortex-M55 & Ethos-U55. It supports TensorFlow and PyTorch frameworks and is compatible with Arduino IDE. With the SenseCraft AI algorithm platform, trained ML models can be deployed to the sensor without the need for coding.
 * It features a standard CSI interface, an onboard digital microphone and an SD card slot, making it highly suitable for various embedded AI vision projects.
-
----
-#### Grove Vision AI V2 Kit (with Camera & XIAO) +$28.88 [[Online Store]](<https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html>)
-* Grove Vision AI V2 + $15.99
-* Raspberry Pi OV5647 Camera Module + $7.90 
-* Seeed Studio XIAO ESP32C3 (2.4GHz WiFi, BLE 5.0)  + $4.99
-
-<img src="https://github.com/user-attachments/assets/bd7f12c7-3ae0-488a-bdf7-2bcb80faef4a" width=350>
 
 ---
 ### Seeed Studio XIAO ESP32C3
