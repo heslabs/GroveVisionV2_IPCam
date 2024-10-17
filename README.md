@@ -36,7 +36,13 @@ Reference: [[Seeedstudio Wiki page]](<https://wiki.seeedstudio.com/grove_vision_
 * It is an MCU-based vision AI module powered by Arm Cortex-M55 & Ethos-U55. It supports TensorFlow and PyTorch frameworks and is compatible with Arduino IDE. With the SenseCraft AI algorithm platform, trained ML models can be deployed to the sensor without the need for coding.
 * It features a standard CSI interface, an onboard digital microphone and an SD card slot, making it highly suitable for various embedded AI vision projects.
 
-<img src="https://github.com/user-attachments/assets/18923aed-57eb-4f2f-a045-77cfce858c1d" width=400>
+---
+#### Grove Vision AI V2 Kit (with Camera & XIAO) +$28.88 [[Online Store]](<https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html>)
+* Grove Vision AI V2 + $15.99
+* Raspberry Pi OV5647 Camera Module + $7.90 
+* Seeed Studio XIAO ESP32C3 (2.4GHz WiFi, BLE 5.0)  + $4.99
+
+<img src="https://github.com/user-attachments/assets/bd7f12c7-3ae0-488a-bdf7-2bcb80faef4a" width=350>
 
 ---
 ### Seeed Studio XIAO ESP32C3
