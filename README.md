@@ -106,5 +106,5 @@ https://www.hackster.io/limengdu0117/2024-mcu-ai-vision-boards-performance-compa
 ### Computer Vision at the Edge with Grove Vision AI Module V2
 https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU
 
-<img src="https://github.com/user-attachments/assets/31600c02-0b78-44cc-bca7-fc99c3ba131a" width=950>
+<img src="https://github.com/user-attachments/assets/31600c02-0b78-44cc-bca7-fc99c3ba131a" width=1050>
 
