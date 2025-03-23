@@ -38,7 +38,7 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
 ### Step 3: Open camera web server demo program and set your 2.4G wifi 
 
 * Open camera web server demo
-  * Files -> Examples -> Seeed Arduino -> Camera Web Server
+  * Files -> Examples -> Seeed Arduino -> Camera_Web_Server
 <img src="https://github.com/user-attachments/assets/fd4805d2-d62d-4ee2-a383-de40d8c67f38" width=550>
 
 * Set your 2.4G wifi ssid and password
