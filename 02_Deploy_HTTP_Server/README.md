@@ -25,7 +25,7 @@ Reference: Download and install Arduino IDE [[Linux]](<https://support.arduino.c
 ### Step 2: Download the SSCMA package and upload to Arduino IDE
 * Download SSCMA zip package from Seeed-Studio [[GitHub]](<https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA>)
 * Download file: Seeed_Arduino_SSCMA-main.zip
-* 
+
 <img src="https://github.com/user-attachments/assets/633508a4-18f5-4f8b-bf3a-5ee567f2ecb3" width=550>
 
 * Launch Arduino IDE and upload this package (zip file) to Arduino IDE
