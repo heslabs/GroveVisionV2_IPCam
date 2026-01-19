@@ -20,7 +20,7 @@ Reference: Seeed Studio - Intelligent IP Camera With AI Function [[wiki]](<https
 ### Prerequisites
 
 For this tutorial, the following hardware modules are required
-* Grove Vision AI V2 
+* Grove Vision AI V2 [[Buy]](https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html)
 * Raspberry Pi OV5647 Camera Module [[more]](<https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html>)
 * Seeed Studio XIAO ESP32C3 (2.4GHz WiFi, BLE 5.0) [[more]](<https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html>)
   
