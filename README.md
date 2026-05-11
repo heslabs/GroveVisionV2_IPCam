@@ -40,6 +40,10 @@ Reference: [[Seeedstudio Wiki page]](<https://wiki.seeedstudio.com/grove_vision_
 * It features a standard CSI interface, an onboard digital microphone and an SD card slot, making it highly suitable for various embedded AI vision projects.
 
 ---
+### SenseCraft-Web-Toolkit
+* https://seeed-studio.github.io/SenseCraft-Web-Toolkit/#/setup/process
+
+---
 ### Seeed Studio XIAO ESP32C3
 Reference:[[Seeedstudio Wiki page]](< https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started>)
 
